@@ -1,0 +1,92 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "projectName": "E-Commerce Website Revamp",
+      "description": "Redesign the existing e-commerce platform to enhance user experience and performance.",
+      "team": "UI/UX Design Team",
+      "assignedDate": "2024-07-10",
+      "dueDate": "2024-08-25",
+      "status": "In Progress",
+      "priority": "High",
+      "imageUrl": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/1.png"
+    },
+    {
+      "id": 2,
+      "projectName": "Social Media Strategy",
+      "description": "Develop a comprehensive social media strategy to increase brand awareness.",
+      "team": "Marketing Team",
+      "assignedDate": "2024-06-20",
+      "dueDate": "2024-08-15",
+      "status": "Completed",
+      "priority": "Medium",
+      "imageUrl": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/3.png"
+    },
+    {
+      "id": 3,
+      "projectName": "Mobile App Development",
+      "description": "Create a cross-platform mobile application for the new product launch.",
+      "team": "App Development Team",
+      "assignedDate": "2024-05-15",
+      "dueDate": "2024-09-30",
+      "status": "In Progress",
+      "priority": "High",
+      "imageUrl": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/7.png"
+    },
+    {
+      "id": 4,
+      "projectName": "SEO Optimization",
+      "description": "Improve website rankings through advanced SEO techniques.",
+      "team": "SEO Team",
+      "assignedDate": "2024-07-01",
+      "dueDate": "2024-08-15",
+      "status": "In Progress",
+      "priority": "Low",
+      "imageUrl": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/6.png"
+    },
+    {
+      "id": 5,
+      "projectName": "Cloud Infrastructure Migration",
+      "description": "Migrate all company services to a new cloud infrastructure.",
+      "team": "IT Infrastructure Team",
+      "assignedDate": "2024-08-01",
+      "dueDate": "2024-09-15",
+      "status": "Not Started",
+      "priority": "High",
+      "imageUrl": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/5.png"
+    },
+    {
+      "id": 6,
+      "projectName": "Cybersecurity Audit",
+      "description": "Conduct a full cybersecurity audit to identify and address potential vulnerabilities.",
+      "team": "Security Team",
+      "assignedDate": "2024-07-25",
+      "dueDate": "2024-08-20",
+      "status": "Not Started",
+      "priority": "Critical",
+      "imageUrl": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/3.png"
+    },
+    {
+      "id": 7,
+      "projectName": "Data Analytics Implementation",
+      "description": "Implement a data analytics platform to improve business decision-making.",
+      "team": "Data Science Team",
+      "assignedDate": "2024-06-10",
+      "dueDate": "2024-08-30",
+      "status": "In Progress",
+      "priority": "Medium",
+      "imageUrl": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/1.png"
+    },
+    {
+      "id": 8,
+      "projectName": "Data Analytics Implementation",
+      "description": "Implement a data analytics platform to improve business decision-making.",
+      "team": "Data Science Team",
+      "assignedDate": "2024-06-10",
+      "dueDate": "2024-08-30",
+      "status": "In Progress",
+      "priority": "Medium",
+      "imageUrl": "https://spruko.com/demo/xintra/dist/assets/images/company-logos/6.png"
+    }
+  ]
+}
